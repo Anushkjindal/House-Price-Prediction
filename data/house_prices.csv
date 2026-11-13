@@ -1,0 +1,551 @@
+City,Location,Area_sqft,BHK,Bathrooms,Property_Age,Price_in_Lakhs
+Jaipur,C-Scheme,520,1,1,7,36.0
+Jaipur,C-Scheme,1758,3,2,18,113.65
+Mumbai,Bandra West,1008,2,1,17,220.98
+Jaipur,Jagatpura,979,2,2,25,32.19
+Delhi,Saket,829,2,2,24,94.03
+Mumbai,Borivali,666,1,1,11,85.74
+Mumbai,Borivali,1248,2,2,2,174.15
+Jaipur,Jagatpura,2640,4,4,22,84.16
+Jaipur,Malviya Nagar,1281,3,3,3,74.79
+Hyderabad,Gachibowli,931,2,2,21,69.89
+Jaipur,C-Scheme,1375,3,3,5,101.69
+Bangalore,Electronic City,916,2,1,7,53.22
+Bangalore,Whitefield,858,2,2,6,71.81
+Hyderabad,Madhapur,485,1,1,7,39.68
+Pune,Baner,1638,3,4,11,135.83
+Delhi,Rohini,1136,2,1,3,91.63
+Delhi,Saket,1594,3,4,19,201.43
+Pune,Baner,4562,5,4,21,352.21
+Jaipur,Jagatpura,1987,3,3,3,75.43
+Delhi,Saket,634,1,1,23,71.06
+Pune,Viman Nagar,804,2,2,20,67.73
+Delhi,Vasant Kunj,832,2,1,19,104.34
+Mumbai,Bandra West,2529,4,4,1,643.16
+Pune,Kothrud,574,1,1,2,61.57
+Pune,Viman Nagar,571,1,1,17,47.05
+Pune,Hinjewadi,858,2,2,22,48.83
+Jaipur,Vaishali Nagar,1014,2,2,3,51.89
+Mumbai,Powai,591,1,1,7,95.51
+Mumbai,Bandra West,1260,3,3,2,335.91
+Bangalore,Indiranagar,892,2,2,6,120.76
+Jaipur,Jagatpura,1448,3,4,25,48.16
+Mumbai,Bandra West,1562,3,4,13,367.41
+Jaipur,C-Scheme,1861,3,2,1,138.87
+Bangalore,Indiranagar,847,2,2,4,115.56
+Bangalore,Whitefield,1222,2,1,14,94.51
+Pune,Kothrud,588,1,1,0,64.06
+Delhi,Vasant Kunj,996,2,2,12,140.95
+Delhi,Saket,549,1,1,8,74.4
+Hyderabad,Gachibowli,1240,2,2,4,106.81
+Delhi,Connaught Place,1755,3,2,23,311.84
+Mumbai,Thane,1220,2,2,1,139.59
+Mumbai,Andheri West,467,1,1,21,71.96
+Hyderabad,Banjara Hills,3066,4,4,18,348.3
+Pune,Kothrud,1048,2,2,8,102.03
+Jaipur,Vaishali Nagar,952,2,2,21,43.18
+Hyderabad,Gachibowli,2048,4,3,14,168.29
+Pune,Kothrud,504,1,1,16,45.28
+Bangalore,Indiranagar,2656,4,4,5,359.68
+Pune,Baner,1869,3,2,21,145.04
+Bangalore,Indiranagar,2175,4,4,3,311.1
+Jaipur,Jagatpura,894,2,2,22,29.12
+Jaipur,Vaishali Nagar,878,2,1,2,45.41
+Bangalore,Indiranagar,647,1,1,4,88.64
+Bangalore,Koramangala,1764,3,4,17,194.68
+Mumbai,Andheri West,1177,2,2,18,183.62
+Hyderabad,Hitec City,543,1,1,25,42.83
+Mumbai,Powai,877,2,1,11,139.02
+Hyderabad,Kukatpally,1442,3,3,25,74.01
+Hyderabad,Banjara Hills,1223,2,2,25,133.13
+Jaipur,Malviya Nagar,1153,2,1,12,62.25
+Hyderabad,Hitec City,1220,2,2,11,105.53
+Delhi,Vasant Kunj,499,1,1,12,66.73
+Mumbai,Powai,1010,2,2,21,149.91
+Pune,Baner,2136,4,4,5,190.27
+Bangalore,Indiranagar,561,1,1,11,72.94
+Bangalore,Whitefield,1723,3,2,12,138.17
+Delhi,Dwarka,561,1,1,0,53.38
+Pune,Viman Nagar,785,2,2,19,65.74
+Mumbai,Powai,1091,2,2,10,170.79
+Bangalore,Electronic City,557,1,1,21,28.79
+Jaipur,Malviya Nagar,1508,3,4,17,82.21
+Bangalore,HSR Layout,1152,2,2,14,113.5
+Jaipur,Malviya Nagar,1156,2,2,21,55.38
+Pune,Hinjewadi,1169,2,2,21,66.61
+Delhi,Vasant Kunj,512,1,1,15,68.19
+Mumbai,Borivali,1072,2,2,22,127.13
+Hyderabad,Madhapur,1085,2,1,24,76.67
+Mumbai,Borivali,1161,2,2,1,163.49
+Mumbai,Borivali,568,1,1,21,66.33
+Pune,Hinjewadi,1136,2,2,19,68.69
+Pune,Wakad,1761,3,4,5,133.85
+Hyderabad,Madhapur,876,2,2,24,63.03
+Hyderabad,Hitec City,789,2,2,7,70.94
+Bangalore,Electronic City,488,1,1,7,27.38
+Delhi,Vasant Kunj,554,1,1,10,76.71
+Hyderabad,Banjara Hills,965,2,2,24,103.56
+Jaipur,C-Scheme,3079,4,5,15,200.94
+Bangalore,HSR Layout,1629,3,3,15,157.08
+Hyderabad,Madhapur,536,1,1,21,38.45
+Hyderabad,Hitec City,1330,3,2,12,116.57
+Jaipur,C-Scheme,559,1,1,4,41.77
+Delhi,Connaught Place,917,2,2,14,178.14
+Hyderabad,Gachibowli,1631,3,3,2,147.09
+Jaipur,Jagatpura,693,1,1,11,23.49
+Mumbai,Bandra West,1453,3,3,0,384.48
+Delhi,Vasant Kunj,808,2,2,14,110.87
+Bangalore,Koramangala,1965,3,2,24,213.21
+Bangalore,Indiranagar,1519,3,4,12,203.69
+Delhi,Connaught Place,1842,3,3,3,404.8
+Bangalore,Electronic City,1779,3,2,11,99.11
+Jaipur,Vaishali Nagar,615,1,1,10,28.27
+Hyderabad,Madhapur,695,1,1,11,54.46
+Hyderabad,Hitec City,1125,2,2,19,94.4
+Pune,Wakad,1172,2,2,10,84.69
+Mumbai,Powai,2399,4,5,18,358.24
+Hyderabad,Gachibowli,667,1,1,10,53.82
+Delhi,Dwarka,1548,3,3,19,129.76
+Bangalore,Electronic City,692,1,1,6,38.22
+Jaipur,Mansarovar,1138,2,2,22,40.81
+Jaipur,Mansarovar,758,2,1,9,28.89
+Jaipur,Malviya Nagar,1047,2,2,15,55.17
+Bangalore,Whitefield,3927,5,5,11,315.46
+Bangalore,HSR Layout,811,2,2,10,81.03
+Pune,Viman Nagar,1128,2,2,8,106.86
+Pune,Hinjewadi,801,2,2,9,50.91
+Delhi,Dwarka,586,1,1,4,52.92
+Mumbai,Thane,1233,2,2,20,118.83
+Hyderabad,Banjara Hills,3075,4,4,15,355.67
+Bangalore,Koramangala,2417,4,5,3,320.73
+Hyderabad,Madhapur,611,1,1,21,41.67
+Delhi,Rohini,2074,4,4,3,177.38
+Hyderabad,Kukatpally,1833,3,3,24,92.03
+Hyderabad,Madhapur,1051,2,2,9,84.87
+Mumbai,Thane,2103,4,4,20,194.22
+Jaipur,C-Scheme,838,2,1,5,57.94
+Hyderabad,Kukatpally,766,2,2,9,44.88
+Jaipur,Mansarovar,509,1,1,8,20.47
+Jaipur,Jagatpura,1402,3,4,3,56.7
+Jaipur,Malviya Nagar,2191,4,3,1,125.61
+Bangalore,Electronic City,1782,3,3,14,95.0
+Jaipur,Vaishali Nagar,1478,3,4,14,70.31
+Mumbai,Borivali,1818,3,3,0,249.1
+Jaipur,Jagatpura,1221,3,3,18,41.15
+Delhi,Saket,976,2,2,5,137.95
+Hyderabad,Madhapur,2862,4,4,13,219.5
+Jaipur,C-Scheme,2575,4,5,22,165.08
+Jaipur,Mansarovar,1763,3,2,14,65.04
+Bangalore,HSR Layout,647,1,1,12,66.22
+Mumbai,Thane,777,2,2,16,75.19
+Hyderabad,Madhapur,1408,3,3,17,103.26
+Bangalore,Whitefield,2892,4,3,0,258.24
+Pune,Viman Nagar,1518,3,2,17,129.07
+Delhi,Connaught Place,810,2,2,15,163.8
+Bangalore,Electronic City,1625,3,4,15,88.45
+Pune,Viman Nagar,1221,2,2,2,117.11
+Hyderabad,Gachibowli,2939,4,4,0,264.34
+Bangalore,Electronic City,1875,3,4,4,112.92
+Hyderabad,Gachibowli,1140,2,2,14,95.82
+Delhi,Vasant Kunj,1439,3,4,1,215.44
+Hyderabad,Madhapur,1089,2,2,15,86.04
+Delhi,Rohini,2579,4,3,14,191.33
+Hyderabad,Banjara Hills,1619,3,3,2,209.59
+Bangalore,HSR Layout,1607,3,2,10,168.75
+Pune,Wakad,3183,4,5,17,204.38
+Mumbai,Andheri West,1494,3,3,23,215.15
+Mumbai,Bandra West,1105,2,2,0,278.31
+Mumbai,Powai,970,2,2,7,157.56
+Pune,Viman Nagar,790,2,2,19,68.14
+Hyderabad,Kukatpally,568,1,1,20,28.06
+Bangalore,Indiranagar,2852,4,4,21,337.96
+Mumbai,Borivali,3103,4,4,20,383.07
+Jaipur,Vaishali Nagar,904,2,2,12,45.24
+Mumbai,Andheri West,933,2,2,22,137.59
+Jaipur,Mansarovar,1039,2,1,19,37.73
+Bangalore,Koramangala,1560,3,3,20,169.05
+Bangalore,Koramangala,1842,3,2,9,228.88
+Mumbai,Thane,817,2,1,9,82.24
+Hyderabad,Hitec City,1152,2,2,16,96.95
+Bangalore,Koramangala,1172,2,2,25,121.37
+Bangalore,Indiranagar,788,2,2,24,94.02
+Jaipur,Mansarovar,3041,4,4,2,133.21
+Mumbai,Powai,982,2,2,21,143.19
+Bangalore,Electronic City,1076,2,2,3,65.41
+Hyderabad,Banjara Hills,1774,3,3,19,194.14
+Mumbai,Borivali,2518,4,5,3,339.97
+Mumbai,Powai,3037,5,4,7,507.12
+Delhi,Saket,1093,2,2,18,135.05
+Delhi,Saket,1701,3,4,8,218.9
+Bangalore,Koramangala,1236,2,2,11,143.3
+Jaipur,Vaishali Nagar,1250,2,2,1,65.44
+Delhi,Connaught Place,2831,4,3,21,509.18
+Jaipur,Jagatpura,2903,5,5,7,114.44
+Pune,Viman Nagar,645,1,1,17,53.33
+Delhi,Vasant Kunj,825,2,1,8,119.15
+Delhi,Vasant Kunj,1158,2,2,3,173.23
+Mumbai,Andheri West,652,1,1,25,91.92
+Bangalore,Indiranagar,776,2,2,23,89.58
+Mumbai,Bandra West,1148,2,2,16,263.74
+Hyderabad,Kukatpally,1064,2,1,23,53.27
+Jaipur,Jagatpura,1079,2,1,1,42.3
+Hyderabad,Madhapur,1702,3,4,2,151.55
+Bangalore,Electronic City,482,1,1,8,27.34
+Pune,Hinjewadi,1590,3,3,14,99.05
+Hyderabad,Banjara Hills,1317,3,3,13,155.8
+Delhi,Saket,982,2,2,13,126.97
+Bangalore,Whitefield,880,2,2,4,75.01
+Hyderabad,Banjara Hills,471,1,1,2,59.92
+Jaipur,Vaishali Nagar,1769,3,2,18,83.17
+Pune,Baner,1620,3,3,21,128.69
+Hyderabad,Banjara Hills,3129,4,4,11,363.57
+Pune,Viman Nagar,996,2,2,3,95.61
+Pune,Baner,521,1,1,18,39.26
+Hyderabad,Kukatpally,4476,5,5,19,237.01
+Pune,Kothrud,1873,3,3,0,194.56
+Jaipur,Vaishali Nagar,2618,4,3,5,137.65
+Pune,Wakad,639,1,1,20,41.78
+Mumbai,Thane,964,2,2,10,96.34
+Bangalore,HSR Layout,1781,3,2,1,190.45
+Pune,Kothrud,1478,3,4,21,132.81
+Pune,Wakad,860,2,1,11,58.49
+Bangalore,Electronic City,1091,2,2,1,64.95
+Pune,Kothrud,527,1,1,6,53.81
+Bangalore,HSR Layout,753,2,2,23,68.71
+Delhi,Saket,867,2,2,2,119.94
+Jaipur,C-Scheme,985,2,1,10,68.38
+Pune,Wakad,1627,3,3,3,121.17
+Bangalore,Koramangala,1832,3,4,22,207.49
+Mumbai,Borivali,1449,3,4,18,176.73
+Mumbai,Borivali,2595,4,4,10,346.3
+Mumbai,Thane,1743,3,3,24,156.01
+Jaipur,Malviya Nagar,824,2,2,6,45.77
+Delhi,Connaught Place,1145,2,2,14,229.77
+Pune,Wakad,1778,3,3,20,113.32
+Hyderabad,Banjara Hills,1073,2,2,25,111.05
+Mumbai,Powai,908,2,2,14,133.45
+Bangalore,HSR Layout,671,1,1,2,73.3
+Pune,Wakad,1033,2,1,14,71.05
+Pune,Viman Nagar,993,2,2,1,97.65
+Bangalore,Indiranagar,838,2,1,7,112.59
+Hyderabad,Kukatpally,831,2,2,11,48.54
+Hyderabad,Madhapur,1895,3,2,25,131.72
+Bangalore,Indiranagar,1035,2,2,9,133.27
+Jaipur,Jagatpura,2582,4,3,18,88.13
+Bangalore,HSR Layout,2702,4,4,19,260.83
+Mumbai,Powai,1858,3,3,4,312.95
+Jaipur,Jagatpura,621,1,1,13,21.16
+Mumbai,Powai,1236,2,2,10,201.79
+Hyderabad,Hitec City,820,2,2,2,76.88
+Mumbai,Thane,1956,3,2,21,178.16
+Pune,Viman Nagar,1357,3,3,5,134.13
+Pune,Viman Nagar,1244,3,4,11,117.32
+Delhi,Saket,1970,3,4,7,265.58
+Bangalore,Whitefield,2297,4,4,21,172.92
+Hyderabad,Madhapur,1996,3,4,16,152.78
+Delhi,Vasant Kunj,1341,3,3,1,204.83
+Bangalore,Electronic City,2956,4,3,9,162.01
+Delhi,Dwarka,1012,2,2,13,84.78
+Delhi,Saket,1954,4,5,1,275.07
+Bangalore,Koramangala,791,2,2,7,94.85
+Mumbai,Powai,1340,3,2,9,220.01
+Hyderabad,Hitec City,1680,3,4,19,134.31
+Mumbai,Bandra West,1177,2,2,17,275.27
+Pune,Hinjewadi,1147,2,2,7,73.93
+Mumbai,Andheri West,1156,2,2,2,199.83
+Hyderabad,Kukatpally,1073,2,2,22,52.99
+Hyderabad,Banjara Hills,1446,3,4,5,187.39
+Mumbai,Thane,2938,5,5,17,285.39
+Pune,Hinjewadi,673,1,1,15,38.8
+Hyderabad,Gachibowli,758,2,2,25,54.14
+Delhi,Connaught Place,1952,3,3,4,403.44
+Pune,Baner,1379,3,4,22,106.58
+Delhi,Vasant Kunj,648,1,1,14,83.12
+Delhi,Connaught Place,1242,3,3,9,256.88
+Pune,Wakad,1135,2,2,9,79.57
+Mumbai,Powai,1159,2,2,13,183.59
+Jaipur,Mansarovar,2691,4,4,5,112.97
+Hyderabad,Gachibowli,2963,4,4,25,210.56
+Hyderabad,Banjara Hills,1171,2,2,17,130.83
+Mumbai,Bandra West,901,2,2,14,211.24
+Hyderabad,Hitec City,1559,3,4,1,154.17
+Bangalore,Electronic City,3362,5,5,25,173.37
+Mumbai,Borivali,1160,2,2,0,159.22
+Pune,Wakad,467,1,1,7,33.8
+Bangalore,HSR Layout,1040,2,1,19,94.32
+Hyderabad,Gachibowli,1140,2,1,18,85.28
+Bangalore,Whitefield,892,2,2,3,72.64
+Delhi,Saket,1217,2,1,8,162.98
+Jaipur,Mansarovar,1063,2,2,22,39.56
+Hyderabad,Hitec City,668,1,1,2,62.21
+Jaipur,Mansarovar,4459,5,5,10,180.69
+Jaipur,C-Scheme,898,2,2,5,67.28
+Jaipur,Malviya Nagar,1720,3,3,3,104.26
+Delhi,Vasant Kunj,1226,3,3,17,162.83
+Hyderabad,Kukatpally,676,1,1,2,38.52
+Hyderabad,Madhapur,1143,2,2,18,81.78
+Bangalore,Indiranagar,1098,2,2,4,154.85
+Pune,Hinjewadi,1244,2,2,13,77.31
+Mumbai,Bandra West,905,2,2,5,224.16
+Jaipur,Malviya Nagar,1231,2,2,2,70.32
+Jaipur,Jagatpura,1070,2,2,19,36.08
+Pune,Viman Nagar,1794,3,3,5,173.96
+Jaipur,Jagatpura,1223,2,1,0,44.92
+Jaipur,Jagatpura,857,2,2,19,29.44
+Hyderabad,Kukatpally,1239,2,2,15,65.55
+Jaipur,Mansarovar,787,2,1,5,31.58
+Hyderabad,Madhapur,1060,2,2,10,86.83
+Bangalore,HSR Layout,3067,5,5,16,301.67
+Bangalore,Koramangala,886,2,2,7,107.06
+Mumbai,Powai,3160,4,5,7,532.11
+Delhi,Dwarka,2540,4,4,24,194.03
+Pune,Wakad,907,2,2,0,67.24
+Hyderabad,Kukatpally,873,2,2,18,45.79
+Mumbai,Powai,1201,2,2,9,191.53
+Mumbai,Borivali,517,1,1,23,58.43
+Hyderabad,Gachibowli,463,1,1,18,35.85
+Bangalore,Electronic City,947,2,2,24,47.6
+Pune,Hinjewadi,699,1,1,3,46.0
+Bangalore,Electronic City,2195,4,4,19,116.27
+Pune,Kothrud,485,1,1,22,41.4
+Hyderabad,Kukatpally,1060,2,2,10,62.08
+Bangalore,Koramangala,1065,2,2,18,118.44
+Pune,Hinjewadi,1038,2,2,15,65.22
+Bangalore,HSR Layout,1626,3,3,25,150.75
+Jaipur,C-Scheme,1471,3,3,23,89.69
+Hyderabad,Hitec City,1119,2,2,4,107.09
+Delhi,Connaught Place,1917,3,2,6,387.49
+Bangalore,Whitefield,1103,2,2,13,85.52
+Pune,Wakad,2027,4,4,16,133.86
+Bangalore,Whitefield,910,2,2,14,72.5
+Bangalore,Electronic City,1145,2,2,19,59.68
+Delhi,Dwarka,1430,3,3,24,110.86
+Delhi,Saket,928,2,2,9,118.37
+Jaipur,Jagatpura,952,2,2,24,31.48
+Bangalore,Indiranagar,1115,2,1,11,147.19
+Jaipur,Vaishali Nagar,1419,3,3,17,65.53
+Pune,Baner,607,1,1,23,44.89
+Delhi,Connaught Place,1743,3,3,20,318.16
+Mumbai,Borivali,991,2,1,21,117.93
+Mumbai,Thane,3123,5,5,20,304.82
+Hyderabad,Madhapur,1974,3,3,10,154.67
+Mumbai,Bandra West,1437,3,2,5,357.81
+Delhi,Connaught Place,3613,5,5,5,795.93
+Bangalore,Indiranagar,595,1,1,19,68.42
+Bangalore,HSR Layout,1078,2,2,4,119.55
+Hyderabad,Gachibowli,807,2,2,5,72.54
+Jaipur,Vaishali Nagar,1214,3,3,25,52.63
+Jaipur,Malviya Nagar,1188,2,2,13,63.32
+Mumbai,Borivali,1389,3,3,15,171.67
+Delhi,Connaught Place,870,2,2,24,153.24
+Bangalore,HSR Layout,1786,3,2,8,187.67
+Jaipur,Malviya Nagar,480,1,1,14,24.34
+Hyderabad,Kukatpally,2536,4,3,20,135.17
+Bangalore,HSR Layout,1424,3,3,15,136.94
+Jaipur,Jagatpura,1109,2,2,24,35.66
+Jaipur,Malviya Nagar,1896,3,2,16,96.98
+Jaipur,Vaishali Nagar,594,1,1,3,29.09
+Pune,Hinjewadi,1024,2,2,5,67.41
+Pune,Wakad,502,1,1,22,31.23
+Mumbai,Thane,778,2,2,4,84.43
+Hyderabad,Kukatpally,568,1,1,21,29.05
+Jaipur,C-Scheme,1168,2,1,23,69.87
+Mumbai,Bandra West,1108,2,1,17,258.74
+Mumbai,Borivali,554,1,1,5,76.06
+Jaipur,Mansarovar,1206,2,2,14,47.85
+Hyderabad,Madhapur,696,1,1,21,50.7
+Delhi,Dwarka,587,1,1,12,50.53
+Jaipur,Malviya Nagar,1974,3,2,9,107.43
+Jaipur,Jagatpura,944,2,2,7,35.25
+Delhi,Dwarka,1198,2,1,1,115.69
+Hyderabad,Kukatpally,1216,3,3,6,69.95
+Pune,Kothrud,1094,2,1,7,110.52
+Hyderabad,Madhapur,861,2,1,4,70.87
+Bangalore,Koramangala,1949,3,3,18,221.61
+Jaipur,Vaishali Nagar,1198,2,2,21,53.42
+Hyderabad,Gachibowli,1035,2,2,20,80.89
+Pune,Wakad,538,1,1,20,34.36
+Pune,Baner,1618,3,3,9,136.77
+Pune,Wakad,865,2,2,22,53.39
+Hyderabad,Banjara Hills,1626,3,3,12,190.09
+Delhi,Dwarka,1660,3,3,2,158.63
+Delhi,Connaught Place,1094,2,1,2,230.92
+Pune,Hinjewadi,856,2,2,9,57.55
+Mumbai,Andheri West,2140,4,5,7,375.41
+Jaipur,Malviya Nagar,872,2,2,24,41.63
+Hyderabad,Kukatpally,1515,3,3,11,85.99
+Hyderabad,Madhapur,634,1,1,15,48.42
+Bangalore,Koramangala,961,2,1,18,110.05
+Jaipur,Malviya Nagar,591,1,1,18,29.53
+Hyderabad,Gachibowli,918,2,2,12,76.61
+Delhi,Saket,1901,3,3,8,257.42
+Hyderabad,Madhapur,1125,2,2,5,90.61
+Pune,Wakad,1205,2,1,16,75.87
+Mumbai,Bandra West,1622,3,3,20,349.57
+Jaipur,Malviya Nagar,579,1,1,14,29.52
+Pune,Hinjewadi,2899,4,3,0,200.65
+Hyderabad,Banjara Hills,634,1,1,8,77.37
+Bangalore,Indiranagar,1107,2,2,25,129.9
+Delhi,Connaught Place,2973,4,4,7,606.6
+Pune,Baner,1473,3,4,2,133.58
+Hyderabad,Madhapur,1913,3,3,9,156.16
+Mumbai,Bandra West,547,1,1,12,129.11
+Mumbai,Bandra West,1284,3,4,13,307.14
+Bangalore,Electronic City,4794,5,4,16,263.88
+Delhi,Vasant Kunj,3060,4,5,8,419.82
+Mumbai,Powai,3054,4,3,5,518.61
+Bangalore,Indiranagar,3102,4,4,24,364.52
+Hyderabad,Banjara Hills,1038,2,2,18,120.14
+Hyderabad,Kukatpally,1136,2,2,25,58.22
+Jaipur,C-Scheme,1248,2,2,1,91.31
+Delhi,Connaught Place,1143,2,2,24,201.84
+Jaipur,Vaishali Nagar,1661,3,4,7,85.04
+Hyderabad,Madhapur,1049,2,2,2,91.18
+Bangalore,Koramangala,1284,3,3,4,163.0
+Jaipur,Malviya Nagar,1524,3,3,3,86.35
+Bangalore,Whitefield,888,2,1,4,70.65
+Hyderabad,Madhapur,1724,3,4,3,141.93
+Bangalore,Electronic City,603,1,1,25,28.54
+Hyderabad,Banjara Hills,948,2,1,23,103.79
+Delhi,Rohini,1100,2,2,5,88.62
+Bangalore,HSR Layout,782,2,2,13,77.17
+Bangalore,Whitefield,1569,3,3,7,131.17
+Hyderabad,Kukatpally,1668,3,2,4,96.84
+Hyderabad,Gachibowli,1589,3,3,14,128.27
+Jaipur,Jagatpura,532,1,1,19,17.76
+Delhi,Saket,1243,2,2,10,158.9
+Jaipur,Mansarovar,2396,4,4,12,93.79
+Hyderabad,Gachibowli,594,1,1,6,51.27
+Pune,Viman Nagar,1763,3,2,23,142.05
+Jaipur,Malviya Nagar,899,2,1,25,42.7
+Jaipur,Mansarovar,527,1,1,7,20.48
+Delhi,Saket,1275,3,4,19,155.61
+Hyderabad,Kukatpally,1221,2,2,17,62.4
+Bangalore,Electronic City,1287,3,2,24,62.61
+Jaipur,Vaishali Nagar,1063,2,1,18,49.15
+Jaipur,Mansarovar,2579,4,5,3,107.34
+Bangalore,Koramangala,1015,2,2,14,117.48
+Hyderabad,Kukatpally,1354,3,3,0,84.12
+Bangalore,Whitefield,2075,4,3,23,142.71
+Bangalore,HSR Layout,855,2,2,11,87.11
+Hyderabad,Madhapur,903,2,1,25,62.44
+Mumbai,Powai,1893,3,3,23,260.16
+Delhi,Rohini,1036,2,2,14,77.99
+Hyderabad,Hitec City,1086,2,2,12,91.2
+Pune,Viman Nagar,969,2,2,0,98.04
+Delhi,Dwarka,1264,3,2,25,100.47
+Delhi,Dwarka,984,2,1,8,88.69
+Hyderabad,Kukatpally,2541,4,5,19,134.12
+Mumbai,Powai,984,2,2,21,143.0
+Bangalore,Electronic City,1888,3,3,10,103.94
+Bangalore,Indiranagar,1105,2,2,16,135.18
+Pune,Viman Nagar,1633,3,3,15,145.39
+Jaipur,Malviya Nagar,1701,3,3,4,96.04
+Hyderabad,Kukatpally,541,1,1,0,32.42
+Delhi,Saket,2935,4,5,13,379.69
+Hyderabad,Madhapur,792,2,1,25,54.98
+Bangalore,Indiranagar,1025,2,2,5,142.39
+Pune,Wakad,807,2,1,8,57.9
+Bangalore,Electronic City,1242,3,4,17,67.33
+Hyderabad,Banjara Hills,1869,3,3,9,235.33
+Mumbai,Borivali,1191,2,1,14,152.39
+Mumbai,Andheri West,1127,2,2,22,170.14
+Hyderabad,Hitec City,1411,3,3,25,106.35
+Bangalore,Electronic City,1025,2,2,10,60.31
+Bangalore,HSR Layout,1726,3,2,4,192.14
+Hyderabad,Banjara Hills,4575,5,5,4,591.09
+Delhi,Vasant Kunj,532,1,1,7,76.91
+Jaipur,Mansarovar,1045,2,2,20,38.1
+Hyderabad,Banjara Hills,1987,3,2,12,235.31
+Bangalore,HSR Layout,999,2,2,18,91.76
+Jaipur,C-Scheme,1669,3,3,2,129.16
+Hyderabad,Hitec City,2333,4,5,8,210.43
+Bangalore,HSR Layout,816,2,2,25,72.39
+Jaipur,C-Scheme,610,1,1,25,37.59
+Mumbai,Bandra West,2223,4,5,14,498.5
+Hyderabad,Hitec City,4662,5,4,20,370.56
+Bangalore,Indiranagar,1456,3,2,11,189.87
+Jaipur,Malviya Nagar,610,1,1,9,33.43
+Delhi,Saket,1920,3,2,0,264.1
+Mumbai,Andheri West,1731,3,4,0,303.64
+Bangalore,Indiranagar,3664,5,5,4,501.65
+Delhi,Saket,656,1,1,3,86.79
+Bangalore,HSR Layout,648,1,1,24,59.32
+Jaipur,Malviya Nagar,594,1,1,0,34.76
+Delhi,Saket,859,2,2,13,110.27
+Hyderabad,Hitec City,475,1,1,4,44.56
+Pune,Wakad,969,2,2,25,57.92
+Bangalore,Indiranagar,1057,2,2,24,125.34
+Mumbai,Powai,1060,2,2,23,147.26
+Jaipur,C-Scheme,1445,3,4,12,99.3
+Hyderabad,Kukatpally,677,1,1,0,42.2
+Bangalore,Koramangala,1179,2,2,11,141.81
+Delhi,Saket,2049,4,3,18,239.95
+Bangalore,Koramangala,465,1,1,25,47.97
+Bangalore,Electronic City,1633,3,4,2,102.05
+Pune,Hinjewadi,792,2,2,2,54.54
+Delhi,Vasant Kunj,950,2,1,9,134.34
+Jaipur,Malviya Nagar,472,1,1,13,23.78
+Pune,Hinjewadi,620,1,1,23,34.84
+Delhi,Connaught Place,485,1,1,22,84.48
+Hyderabad,Gachibowli,1150,2,2,5,99.83
+Jaipur,Vaishali Nagar,1320,3,2,10,66.24
+Bangalore,Electronic City,632,1,1,18,32.79
+Hyderabad,Madhapur,778,2,2,18,56.56
+Delhi,Dwarka,1787,3,2,7,164.87
+Mumbai,Bandra West,1925,4,4,1,499.86
+Hyderabad,Hitec City,1241,2,1,17,104.33
+Jaipur,Mansarovar,877,2,2,23,31.1
+Mumbai,Thane,1007,2,1,5,103.98
+Pune,Kothrud,2041,4,5,9,209.36
+Bangalore,HSR Layout,566,1,1,0,61.61
+Bangalore,Electronic City,1957,3,3,14,106.14
+Hyderabad,Hitec City,1759,3,3,4,158.25
+Hyderabad,Banjara Hills,927,2,1,10,106.45
+Jaipur,Mansarovar,1944,3,3,3,80.74
+Delhi,Saket,780,2,2,22,89.87
+Mumbai,Andheri West,2964,4,5,22,459.72
+Hyderabad,Banjara Hills,1717,3,3,20,195.37
+Mumbai,Thane,1645,3,3,7,170.92
+Bangalore,Whitefield,1953,3,3,10,155.14
+Delhi,Connaught Place,2178,4,3,4,452.1
+Hyderabad,Madhapur,811,2,2,24,55.86
+Bangalore,Whitefield,811,2,1,5,67.81
+Bangalore,Electronic City,663,1,1,10,35.57
+Jaipur,Malviya Nagar,2711,4,3,21,131.67
+Delhi,Connaught Place,2826,4,4,3,609.44
+Delhi,Connaught Place,662,1,1,24,122.22
+Delhi,Vasant Kunj,1581,3,2,18,205.91
+Mumbai,Bandra West,3204,5,5,14,764.19
+Mumbai,Powai,691,1,1,14,100.56
+Pune,Wakad,1604,3,4,0,123.63
+Hyderabad,Hitec City,1215,2,2,8,107.61
+Delhi,Connaught Place,1831,3,3,20,335.77
+Hyderabad,Kukatpally,794,2,2,12,43.27
+Delhi,Rohini,1160,2,1,12,91.14
+Bangalore,Whitefield,998,2,2,18,74.13
+Hyderabad,Gachibowli,913,2,2,0,86.32
+Bangalore,Indiranagar,1683,3,3,24,194.68
+Delhi,Vasant Kunj,618,1,1,7,85.87
+Jaipur,C-Scheme,1424,3,4,11,105.45
+Delhi,Vasant Kunj,912,2,2,18,114.12
+Jaipur,Vaishali Nagar,3054,4,4,18,145.48
+Hyderabad,Kukatpally,1001,2,1,2,57.0
+Pune,Viman Nagar,572,1,1,0,55.3
+Pune,Viman Nagar,1548,3,3,25,127.79
+Bangalore,Indiranagar,600,1,1,22,71.53
+Mumbai,Thane,2048,4,4,22,196.85
+Hyderabad,Kukatpally,527,1,1,10,28.24
+Delhi,Saket,1698,3,3,5,235.04
+Pune,Hinjewadi,1428,3,3,12,89.38
+Jaipur,Vaishali Nagar,636,1,1,0,34.26
+Pune,Wakad,3062,4,3,5,225.29
+Pune,Viman Nagar,1306,3,4,4,126.66
+Mumbai,Andheri West,913,2,2,20,143.85
+Mumbai,Powai,885,2,2,7,145.74
+Bangalore,HSR Layout,1937,3,2,1,210.92
+Jaipur,Mansarovar,2747,4,5,12,108.99
+Hyderabad,Banjara Hills,1791,3,3,5,225.63
+Mumbai,Powai,516,1,1,3,82.7
+Delhi,Saket,788,2,1,10,102.26
+Pune,Wakad,1641,3,3,19,110.72

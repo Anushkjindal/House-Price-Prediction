@@ -1,0 +1,9 @@
+{
+    "MAE": 20.72,
+    "RMSE": 33.94,
+    "R2": 0.9129,
+    "Accuracy_Percentage": 91.29,
+    "Total_Samples": 550,
+    "Train_Samples": 440,
+    "Test_Samples": 110
+}
